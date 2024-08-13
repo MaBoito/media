@@ -13,7 +13,7 @@ Caso o aluno tire 90 à 100 a nota será A.
 Para testarmos o projeto, precisamos ter as notas inseridas no let array, como foi dado no exemplo utilizamos 70, 75 e 80.<br/> 
 Para obtermos um novo resultado, abra o Devtools e digite no console o código com as novas notas conforme o exemplo abaixo:
 
-array = [80, 85, 90];
+array = [80, 85, 90];<br/> 
 console.log(mediaDoAluno(array));
 
 ## 🚀 Tecnologias
