@@ -8,7 +8,7 @@ Caso o aluno tire 70 à 79 a nota será C.<br/>
 Caso o aluno tire 80 à 89 a nota será B.<br/> 
 Caso o aluno tire 90 à 100 a nota será A.
 
-## ⚙️ Executando os testes
+## ⚙️ Executando o projeto
 
 Para testarmos o projeto, precisamos ter as notas inseridas no let array, como foi dado no exemplo utilizamos 70, 75 e 80.<br/> 
 Para obtermos um novo resultado, abra o Devtools e digite no console o código com as novas notas conforme o exemplo abaixo:
